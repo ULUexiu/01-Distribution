@@ -23,6 +23,6 @@
 
 我的邮箱：ulucrrr@gmail.com
 
-## 请认真阅读相关的readme文件
+## Please read the "readme" file carefully
 
-## 最后更新日期：2023/5/5
+## Latest update：2023/5/5
