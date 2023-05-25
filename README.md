@@ -16,7 +16,7 @@
 
 ### 配布中
 
-[DMC Modelpack]([https://bowlroll.net/file/299909](https://bowlroll.net/file/301097))
+[DMC Modelpack](https://bowlroll.net/file/301097)
 
 > 请**查看配布链接**以获取下载密码
 
