@@ -4,6 +4,8 @@
 我会在这里更新配布链接、密码提示以及readme文件，感谢您的下载
 
 ## Model distribution
+
+### 已停配
 [Young Dante](https://bowlroll.net/file/295761)
 
 > 请**查看配布链接**以获取下载密码
@@ -12,11 +14,12 @@
 
 > 下载密码**与Young Dante相同**
 
-[Dante_Base](https://bowlroll.net/file/299909)
+### 配布中
+
+[DMC Modelpack]([https://bowlroll.net/file/299909](https://bowlroll.net/file/301097))
 
 > 请**查看配布链接**以获取下载密码
 
-> **我更新了面部贴图，如果你想体验[这个模型(不配布衣服！很抱歉但服装的作者不是我)](https://www.bilibili.com/video/BV1VL411a7ne/)，请使用此处的配布链接**
 
 ## Papercraft
 [Dante](https://drive.google.com/drive/folders/1V3FXGUgZAKGRgMN2N0ZASUFE5ipgE5us?usp=sharing)
