@@ -8,17 +8,13 @@
 ### 已停配
 [Young Dante](https://bowlroll.net/file/295761)
 
-> 请**查看配布链接**以获取下载密码
-
 [Young Dante_Cat](https://bowlroll.net/file/296760)
-
-> 下载密码**与Young Dante相同**
 
 ### 配布中
 
 [DMC Modelpack](https://bowlroll.net/file/301097)
 
-> 请**查看配布链接**以获取下载密码
+> 五代发售日期+游戏名缩写（小写）
 
 
 ## Papercraft
@@ -33,4 +29,4 @@
 
 ## Please read the "readme" file carefully
 
-## Latest update：2023/5/25
+## Latest update：2023/6/5
